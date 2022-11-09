@@ -6,3 +6,5 @@ function randomNum(){
     alert(`You rolled a ${ranNum} congrats something happened WOO!`);
   };
 };
+
+// This is a comment for Ahmad
