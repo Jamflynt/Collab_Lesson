@@ -6,10 +6,3 @@ function randomNum(){
     alert(`You rolled a ${ranNum} congrats something happened WOO!`);
   };
 };
-
-// This is a comment for Ahmad
-
-// This is a comment to merge into the main production branch for Chad
-
-
-let typeNameValue = `chicken`;
